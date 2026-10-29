@@ -6,6 +6,8 @@
 
 **Corporate intranet platform.** One place for news, chat, tasks, HR requests, documents, schedules, training and meetings — replacing a mix of separate apps. In production at a multi-brand restaurant holding and offered as a product to other companies.
 
+Product page: [sci-fi.az/en/products/intranet](https://sci-fi.az/en/products/intranet)
+
 ## Who it's for
 
 Companies with many locations and shift-based staff — restaurant and café chains, hotels, retail — where head office, managers and front-line employees need one shared workspace on desktop and on the phone.
@@ -26,7 +28,7 @@ Companies with many locations and shift-based staff — restaurant and café cha
 
 ## Platforms
 
-Web, Android, iPhone and Windows. Interface in English, Russian and Azerbaijani.
+Web, Android, iOS, Windows and macOS. Interface in English, Russian and Azerbaijani.
 
 ## Screenshots
 
